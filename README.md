@@ -1,4 +1,6 @@
 # toDO app
+![image](https://github.com/Mcfreestyle/toDO/blob/master/toDO.png)
+
 This app manages to-do lists, you can:
 * Read, create, update and delete tasks from any list.
 * Create to-do lists.
