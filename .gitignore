@@ -1,5 +1,4 @@
-book.sqlite
+backend/database/book.sqlite3
 venv/
 __pycache__/
-.vscode
-.DS_Store
+.vscode/
